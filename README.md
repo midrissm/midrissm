@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @midrissm
-- 👀 I’m interested in Devops
-- 🌱 I’m currently learning AWS Solution Architect Associate
-- 💞️ I’m looking to collaborate on learning Jenkins, Ansible
+- 👀 Interested in Devops
+- 🌱 I'am AWS Certified Solution Architect Associate
+- 🌱 Also learning Docker and Kubernetes for containerization 
+- 💞️ ans  looking to collaborate on learning Jenkins, Ansible
 - � How to reach me ...
 
 <!---
