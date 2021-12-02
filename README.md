@@ -2,7 +2,7 @@
 - 👀 Interested in Devops
 - 🌱 I'am AWS Certified Solution Architect Associate
 - 🌱 Also learning Docker and Kubernetes for containerization 
-- 💞️ ans  looking to collaborate on learning Jenkins, Ansible
+- 💞️ and looking to collaborate on learning Jenkins, Ansible
 - � How to reach me ...
 
 <!---
