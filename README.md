@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @midrissm
 - 👀 Interested in Devops
-- 🌱 I'am AWS Certified Solution Architect Associate
-- 🌱 Also learning Docker and Kubernetes for containerization 
-- 💞️ and looking to collaborate on learning Jenkins, Ansible
+- 🌱 I'am AWS Cloud Engineer
+- 🌱 Also AWS AWS Certified Solution Architect Associate 
+- 💞️ and working obn my terraform cert
 - � How to reach me ...
 
 <!---
